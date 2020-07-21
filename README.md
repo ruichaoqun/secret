@@ -1,5 +1,4 @@
-# 91Porn
-91Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频
+
 
 ### 技术概览
 rxjava+retrofit+rxcache+mvp+jsoup
